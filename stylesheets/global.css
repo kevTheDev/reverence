@@ -10,3 +10,7 @@ div#splash {
   margin-right: auto;
   width: 800px;
 }
+
+div#splash img{
+	border: 0px;
+}
