@@ -1,13 +1,19 @@
 body {
 	
 	background: #000000 url(images/img01.gif) repeat left top;
-	
+	font-family: monospaced, courier;
+  font-weight: 400;
+  font-size: 50px;
+  color: white;
 }
 
 h1 {
-  font-family: monospaced, courier;
-  font-weight: 400;
-  font-size: 50px;
+  
+  text-align: center;
+}
+
+a {
+  font-size: 20px;
   color: white;
   text-align: center;
 }
