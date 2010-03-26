@@ -4,6 +4,13 @@ body {
 	
 }
 
+h1 {
+  font-family: monospaced, courier;
+  font-weight: 400;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
 
 div#splash {
 	margin-left: auto;
